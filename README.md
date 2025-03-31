@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Flutter, Python, Front-end**
 
-- 📫 How to reach me **hosseinbahiraei81@gmail.com, https://loco81.ir/contact**
+- 📫 How to reach me **https://loco81.ir/contact, hosseinbahiraei81@gmail.com**
 
-- 📄 Know about my experiences [My works](https://loco81.ir/skills)
+- 📄 Know about my experiences at [My works](https://loco81.ir/skills)
 
 - ⚡ a fact ** I think my life is tied to programming💻, music🎵, and the world of cars🏎️.**
 <br>
