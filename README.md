@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="https://komarev.com/ghpvc/?username=loco81&label=Profile%20views&color=b40eaf&style=flat" alt="loco81" /> </h1>
-<div style="border-radius: 16px; overflow: hidden; display: inline-block">
+<div align="center" style="border-radius: 16px; overflow: hidden; display: inline-block">
   <img width="200" src="/assets/LoCo.jpg" alt="LoCo" />
 </div>
 <h3 align="center"> Hi 👋, I'm LoCo (Hossein) </h3>
