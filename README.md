@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://komarev.com/ghpvc/?username=loco81&label=Profile%20views&color=b40eaf&style=flat" alt="loco81" /> </h1>
+<h1 align="center"> <img width="200" src="https://komarev.com/ghpvc/?username=loco81&label=Profile%20views&color=b40eaf&style=flat" alt="loco81" /> </h1>
 <img src="/assets/LoCo.jpg" alt="LoCo" />
 <h3 align="center"> Hi 👋, I'm LoCo (Hossein) </h3>
 <p align="center">A passionate developer from Iran</p>
