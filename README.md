@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://loco81.ir/contact" target="blank"><img align="center" src="/assets/Loco81.ico" height="25" width="35" /></a>
+<a href="https://loco81.ir/contact" target="blank"><img align="center" src="/assets/Loco81.ico" height="33" width="33" /></a>
 <a href="mailto:hosseinbahiraei81@gmail.com?subject=Hi LoCo&body=I emailed you to tell you that..." target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="hosseinbahiraei81@gmail.com" height="25" width="35" /></a>
 <a href="https://linkedin.com/in/loco81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loco81" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20019555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20019555" height="30" width="40" /></a>
