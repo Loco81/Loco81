@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://komarev.com/ghpvc/?username=loco81&label=Profile%20views&color=b40eaf&style=flat" alt="loco81" /> </h1>
 <h3 align="center"> Hi 👋, I'm LoCo (Hossein) </h3>
-<h4 align="center">A passionate developer from Iran</h4>
-<h5 align="center"><a href="https://loco81.ir">*Click here to visit my website*</a></h5>
+<p align="center">A passionate developer from Iran</p>
+<p align="center"><a href="https://loco81.ir">*Click here to visit my website*</a></p>
 <br>
 
 <br>
