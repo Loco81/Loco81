@@ -5,19 +5,19 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loco81&label=Profile%20views&color=b40eaf&style=flat" alt="loco81" /> </p>
 <br>
 
-- 🔭 I’m currently working on [BassBase](www.google.com)
+- 🔭 I’m currently working on [BassBase]
 
-- 🌱 I’m currently learning **Django, Html/Css**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Flutter, Python**
 
-- 👨‍💻 All of my projects are available at [www.google.com](www.google.com)
+- 👨‍💻 All of my projects are available at [My website](https://loco81.ir)
 
-- 💬 Ask me about **Flutter, Python**
+- 💬 Ask me about **Flutter, Python, Front-end**
 
-- 📫 How to reach me **hosseinbahiraei81@gmail.com**
+- 📫 How to reach me **hosseinbahiraei81@gmail.com, https://loco81.ir/contact**
 
-- 📄 Know about my experiences [www.google.com](www.google.com)
+- 📄 Know about my experiences [My works](https://loco81.ir/skills)
 
 - ⚡ a fact ** I think my life is tied to programming💻, music🎵, and the world of cars🏎️.**
 <br>
