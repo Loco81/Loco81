@@ -4,7 +4,7 @@
 </div>
 <h3 align="center"> Hi 👋, I'm LoCo (Hossein) </h3>
 <p align="center">A passionate developer from Iran</p>
-<p align="center"><a href="https://loco81.ir">*Click here to visit my website*</a></p>
+<p align="center"><a href="https://loco81.ir?lang=en">*Click here to visit my website*</a></p>
 <br>
 
 <br>
@@ -15,20 +15,20 @@
 
 - 👯 I’m looking to collaborate on **Flutter, Python**
 
-- 👨‍💻 All of my projects are available at [My website](https://loco81.ir)
+- 👨‍💻 All of my projects are available at [My website](https://loco81.ir?lang=en)
 
 - 💬 Ask me about **Flutter, Python, Front-end**
 
 - 📫 How to reach me **https://loco81.ir/contact, hosseinbahiraei81@gmail.com**
 
-- 📄 Know about my experiences at [My works](https://loco81.ir/skills)
+- 📄 Know about my experiences at [My works](https://loco81.ir/skills?lang=en)
 
 - ⚡ a fact ** I think my life is tied to programming💻, music🎵, and the world of cars🏎️.**
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://loco81.ir/contact" target="blank"><img align="center" src="/images/Loco81.ico" height="33" width="33" /></a>
+<a href="https://loco81.ir/contact?lang=en" target="blank"><img align="center" src="/images/Loco81.ico" height="33" width="33" /></a>
 <a href="mailto:hosseinbahiraei81@gmail.com?subject=Hi LoCo&body=I emailed you to tell you that..." target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="hosseinbahiraei81@gmail.com" height="25" width="35" /></a>
 <a href="https://linkedin.com/in/loco81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loco81" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20019555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20019555" height="30" width="40" /></a>
