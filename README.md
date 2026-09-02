@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<h3><code>LoCo@github ~ $ ./contributions.sh</code></h3>
+<!-- <h3><code>LoCo@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap, last 12 months" />
 
@@ -53,7 +53,7 @@
 
 <img src="./whoami.svg" width="860" alt="ASCII portrait and info card" />
 
-<br>
+<br> -->
 
 <h3><code>LoCo@github ~ $ cat contact.txt</code></h3>
 
